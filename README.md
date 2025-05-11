@@ -1,7 +1,7 @@
 # VAERS Outcome Predictor
 
 ## How to download the data
-https://vaers.hhs.gov/data/datasets.html
+[VAERS All Year Data](https://vaers.hhs.gov/eSubDownload/index.jsp?fn=AllVAERSDataCSVS.zip)
 
 ## How to run locally
 1. PostgreSQL
