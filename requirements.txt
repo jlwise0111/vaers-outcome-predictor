@@ -1,0 +1,12 @@
+requests==2.32.0
+pandas==2.2.3
+streamlit==1.44.1
+prefect==2.20.16
+sqlalchemy
+psycopg2-binary
+numpy==2.2.5
+seaborn
+matplotlib
+scikit-learn==1.6.1
+joblib==1.5.0
+plotly
